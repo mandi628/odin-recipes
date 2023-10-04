@@ -1,0 +1,30 @@
+* {
+    font-family: Garamond, Georgia, serif;
+    background-color: lavender;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+h2 {
+    text-align: right;
+    text-decoration: underline;
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: black;
+    color: lavender;
+    font-size: 24px;
+}
+
+.image {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
