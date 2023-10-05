@@ -39,18 +39,6 @@ nav {
     text-align:center;
 }
 
-button {
-    font-size:18px;
-    background-color:lavender;
-    border: 2px solid purple;
-    padding: 4px;
-    margin-bottom: 10px;
-}
-
-button:hover {
-    background-color:purple;
-}
-
 .body {
     box-sizing: border-box;
     display: block;
